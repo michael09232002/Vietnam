@@ -2,7 +2,7 @@
 <html>
     <head>
     <title>Vietnam</title>
-    <link rel="stylesheet" href="Vietnam.css">
+    <link rel="stylesheet" href="Vietnam/Vietnam.css">
     <link rel="icon"  type="image/png" href='Images\Vietnam.png'>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Chivo:wght@300&family=Oswald:wght@200;300&family=Pacifico&family=Poppins:wght@600&display=swap" rel="stylesheet">
