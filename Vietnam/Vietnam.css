@@ -147,17 +147,16 @@ a:hover:after{
     margin-left: 0%;
     margin-top: 10%;
     animation:slider 9s infinite linear;
-    background-image: url(Vietnam1.jpg);
+    background-image: url(./Images/Vietnam1.jpg);
     background-size: 100% 100%;
     filter: opacity(100%);
 }
 @keyframes slider{
-	 
-    30%{background-image: url(viet2.jpg); background-size: 100% 100%;}
+    30%{background-image: url(./Images/viet2.jpg); background-size: 100% 100%;}
 
-    60%{background-image: url(vn.jpg);  background-size: 100% 100%;}
+    60%{background-image: url(./Images/vn.jpg); background-size: 100% 100%;}
 
-    90%{background-image: url(viet.jpg); background-size: 100% 100%;}
+    90%{background-image: url(./Images/viet.jpg) ;background-size: 100% 100%;}
 }
 .Box1{ 
     height: 2em;
